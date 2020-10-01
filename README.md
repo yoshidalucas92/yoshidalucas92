@@ -44,6 +44,5 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshidalucas92&layout=compact" alt="yoshidalucas92" />
-  
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yoshidalucas92&show_icons=true" alt="yoshidalucas92" />
 </p>
