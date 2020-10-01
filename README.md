@@ -41,8 +41,8 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-
+ <BR>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshidalucas92&layout=compact" alt="yoshidalucas92" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yoshidalucas92&show_icons=true" alt="yoshidalucas92" />
+  <img align="left" Style="width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshidalucas92&layout=compact" alt="yoshidalucas92" />
+  <img align="right" Style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=yoshidalucas92&show_icons=true" alt="yoshidalucas92" />
 </p>
