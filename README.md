@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Yoshida</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Node Express**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **lucaslimayoshida@gmail.com**
 
