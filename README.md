@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Yoshida</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **lucaslimayoshida@gmail.com**
 
@@ -9,9 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <a align="left" href="https://linkedin.com/in/yoshidalucas" target="blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yoshidalucas" height="30" width="40" />
-</a>
-<a align="left" href="https://instagram.com/yoshidalucas92" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yoshidalucas92" height="30" width="40" />
 </a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
